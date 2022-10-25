@@ -1,0 +1,38 @@
+:root{
+    --main-color: #F7C7B9;
+    --light-color: #F9F9F9;
+    --dark-color-text: #161212;
+    --light-color-text:#404040;
+    --btn-color: #DA2535;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo figcaption{
+    color: var(--dark-color-text);
+    font-size: 32px;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-left: 1rem;
+}
+h1{
+    font-size: 60px;
+    line-height: 1.2em;
+}
+p{
+    font-size: 22px;
+    color: var(--light-color-text);
+    margin: 2.5rem 0;
+}
