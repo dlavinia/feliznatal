@@ -1,9 +1,9 @@
 <template>
   <HeaderMenu></HeaderMenu>
-  <InicioSection></InicioSection>
-  <AcessoriosSection></AcessoriosSection>
-  <DoacaoSection></DoacaoSection>
-  <FooterPage></FooterPage>
+  <InicioSection id="inicio"></InicioSection>
+  <AcessoriosSection id="acessorios"></AcessoriosSection>
+  <DoacaoSection id="doacao"></DoacaoSection>
+  <FooterPage id="contato"></FooterPage>
 </template>
 
 <script>

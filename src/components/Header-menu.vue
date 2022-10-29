@@ -6,10 +6,10 @@
        </figure>
        <nav>
             <ul>
-                <li> <a href="#">Início</a></li>
-                <li> <a href="#">Acessórios</a></li>
-                <li> <a href="#">Doação</a></li>
-                <li> <a href="#">Contato</a></li>
+                <li> <a href="#inicio">Início</a></li>
+                <li> <a href="#acessorios">Início</a></li>
+                <li> <a href="#doacao">Doação</a></li>
+                <li> <a href="#contato">Contato</a></li>
             </ul>
        </nav>
     </header>
