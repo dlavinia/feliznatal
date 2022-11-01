@@ -50,7 +50,7 @@
         padding:3rem 5rem;
     }
     nav{
-        width: 33%;
+        width: 25%;
     }
     ul{
         display: flex;
@@ -80,11 +80,15 @@
     @media only screen and (max-width: 600px) {
         #menu-mobile{
         display: block;
-        width: 40px;
+        width: 30px;
 
     }
     header{
         padding: 1rem;
+    }
+
+    .logo img{
+        width: 33%;
     }
     nav{
         position: fixed;

@@ -37,6 +37,6 @@ p{
     margin: 2.5rem 0;
 }
 @media only screen and (max-width: 600px) {
-  h1{ font-size: 38px; }
+  h1{ font-size: 32px; }
   br{ display: none;}
     }  

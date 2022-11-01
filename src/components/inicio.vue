@@ -38,8 +38,8 @@ import BotaoDoar from '@/components/botaodoar.vue';
     }
 @media only screen and (max-width: 600px) {
     .container{
-        padding: 1rem;
-        height: 350px;
+        padding: 2rem;
+        height: 60vh;
     }
     .infos{
         width: 100%;
