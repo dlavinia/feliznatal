@@ -20,6 +20,7 @@
         background-color: var(--btn-color);
         display: flex;
         align-items: center;
+        justify-content: center;
     }
     a{
         color: #fff;
@@ -31,4 +32,9 @@
         width: 30px;
 
     }
+
+    button:hover{
+        cursor: pointer;
+    }
+
 </style>

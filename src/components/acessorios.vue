@@ -42,7 +42,6 @@
     .container{
         background-color: #fff;
         padding: 4rem 0;
-
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -55,4 +54,10 @@
         display: flex;
         
     }
+
+@media only screen and (max-width: 600px) {
+ .cards{
+    flex-direction: column;
+ }
+}
 </style>

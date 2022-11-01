@@ -36,4 +36,20 @@ import BotaoDoar from '@/components/botaodoar.vue';
     img{
         width: 100%;
     }
+@media only screen and (max-width: 600px) {
+    .container{
+        padding: 1rem;
+        height: 350px;
+    }
+    .infos{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        
+    }
+    figure{
+        display: none;
+    }
+    }  
 </style>
