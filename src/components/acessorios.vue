@@ -59,5 +59,8 @@
  .cards{
     flex-direction: column;
  }
+ .container{
+    padding: 4rem 2rem;
+ }
 }
 </style>

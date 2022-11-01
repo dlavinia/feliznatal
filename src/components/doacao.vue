@@ -44,13 +44,9 @@ img {
 }
 
 @media only screen and (max-width: 600px) {
-    .container {
-        padding: 3rem 1rem;
-        text-align: center;
-        
-
+    .container{
+        padding: 4rem 2rem;
     }
-
     .infos{
         width: 100%;
         display: flex;
@@ -61,6 +57,7 @@ img {
     figure {
         display: none;
     }
+
 
 }
 </style>

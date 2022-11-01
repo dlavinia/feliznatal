@@ -88,7 +88,7 @@
     }
 
     .logo img{
-        width: 33%;
+        width: 50px;
     }
     nav{
         position: fixed;
