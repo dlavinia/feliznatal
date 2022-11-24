@@ -41,7 +41,7 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
-
+```
 
 <p align="center">
   <small>Project developed with educational purpose.<small>
