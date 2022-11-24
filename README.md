@@ -1,10 +1,7 @@
 <h1> 🎅 Feliz Natal 🎅 </h1>
 
 ## ⚡ Project
-Small project to put into practice theoretical knowledge of Props
-
-
- in Vue.js and train layout development with HTML and CSS.
+Small project to put into practice theoretical knowledge of Props in Vue.js and train layout development with HTML and CSS.
 
 <img src="https://raw.githubusercontent.com/dlavinia/feliznatal/master/src/assets/print1.png"/><br>
 
